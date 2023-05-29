@@ -1,4 +1,7 @@
-/*icpc -O2 -std=c++11 -O3 -DNDEBUG -funroll-loops -ffast-math -fopenmp fftwpp/fftw++.cc -lfftw3 -lfftw3_omp t_i_d_se_fast_vg.cpp*/
+/*
+Created at May 2019
+icpc -O2 -std=c++11 -O3 -DNDEBUG -funroll-loops -ffast-math -fopenmp fftwpp/fftw++.cc -lfftw3 -lfftw3_omp t_i_d_se_fast_vg.cpp
+*/
 #include <iostream>
 #include <vector>
 #include <complex>
